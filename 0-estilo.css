@@ -1,0 +1,14 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    word-wrap: break-word;
+    background-color: #F0F6F6;
+    background-image: linear-gradient(to bottom,#F0F6F6 70%, white );
+}
+
+.align-items-center{
+    display: flex;
+    align-items: center;
+}
